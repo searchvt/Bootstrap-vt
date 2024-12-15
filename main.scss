@@ -1,0 +1,262 @@
+// @charset "UTF-8";
+body {
+    margin: 0px;
+    header {
+        background-color: #222940;
+     
+    }
+    main {
+    
+    background-color: #f25c78;
+   
+    opacity: 1;
+    
+    div {
+
+        h3{
+            
+            text-align: center;
+            margin: 80px;
+            background-color:#222940;
+            font-size: 5;
+            padding: 25px;
+            border: 12px;
+            border-style:solid;
+            color:#ded9de;  
+            box-shadow: 2px 2px 6px 2px;
+  
+        border-color: #23293c;
+        box-decoration-break: slice;
+        }
+       
+        div {
+            
+        p {
+            button {
+         position: relative;
+        background: #1b1736;
+        border-radius: 8px;
+        overflow:auto;
+        display: inline;
+        padding: 4px 6px;
+        box-shadow: 0 2px 0px ;
+       
+        a {
+            color: rgb(173, 158, 161);  
+        }
+
+                
+            }
+        }
+    }
+    }
+    }
+    footer {
+        .container-fluid {
+             background-color: #222940;
+             justify-content: center;
+             color: #d7d7de;
+             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+             div {
+        span{
+            align-items: center;        }
+        
+               
+                    div{ 
+                        
+
+                            justify-content: center !important;  
+                            align-items: center !important;                      span{
+                            display: flex !important;
+                    
+                            a {
+                                color: white;
+
+                                justify-content: center;
+                               
+                            }
+                        }
+                    }
+                }
+
+             }
+        }
+    }
+    
+
+    a:link {
+        text-decoration: none;
+  }
+  
+  a:visited {
+        text-decoration: none;
+  }
+  
+  a:hover {
+        text-decoration: none;
+  }
+  
+  a:active {
+        text-decoration: none;
+  }
+
+
+  .cm {
+    display:inline;
+    padding: 90px ;
+    justify-content: center;
+    margin: 100px 100px;
+
+}
+.heroshot {
+    opacity: 1;
+}   
+ 
+.col-lg-4 { 
+    flex: 0 0 auto;
+    width: 12.9% !important;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    // background-color: rgb(112, 171, 203);
+    background-color:#e57f92e6;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 25px;
+    font-size: 16px;
+    box-shadow: 0 50px 100px 0;
+    color: #1b1a31;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.featurette  {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+    justify-content:space-between !important;
+    align-items: center;
+    margin: 2px 50px;
+    border: 20px;
+    
+    div {
+        max-width: 90%;
+        background-color:#2e243c;
+        border-style: ridge;
+        border-radius: 70px;
+        margin: 50px;
+        white-space-collapse:preserve-breaks;
+        padding: 90px;
+
+    }
+    &:nth-of-type(even){
+        flex-direction: row-reverse !important;
+    }
+    div {
+
+        img{
+            justify-content: center;
+            align-items: center;
+        }
+    
+    }
+    
+}
+
+.fw-normalg {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    // font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 10px;
+font-size: 29px;
+}
+// -----------------------------------------------------------------------
+.fw-normal {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    // font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight:1;
+font-size: 18px;
+color: #efe4ef;
+text-align: center;
+font-variant: small-caps;
+font-style: normal !important;
+}
+
+.featurette-heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    // font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight:1;
+font-size: 25px;
+color: #efe4ef;
+text-align: center;
+font-variant: small-caps;
+font-style: normal !important;
+
+}
+
+
+.lead {
+// font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif !important;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight:1;
+font-size: 16px !important;
+display:contents;
+font-style: italic;
+color: #efe1ef;
+font-variant: small-caps;
+
+}
+
+
+.nav-link {
+    // font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',   sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px !important;
+    font-weight: 2 !important;
+    color: #d4a375 !important;
+    // color: #f29c50 !important;
+    box-shadow: 2px 1px 6px 2px;
+}
+.col-lg-auto {
+    display:flex !important;
+    margin: 30px !important;
+    padding: 20px;
+    
+}
+
+.text-body-secondar{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    // font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 33px !important;
+display: inline;
+color: #a6abdf !important ;
+text-align: center;
+font-variant: small-caps;
+font-style: normal !important;
+text-align: start;
+}
+
+
+
+.order-md-1 {
+    // margin-left: 50px;
+    padding: 20px;
+    background-color:#e57f92e6 !important;
+    box-shadow: 8px 15px 60px 6px;
+    color: #0e101d;
+    img {
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 130px;
+
+}}
+
+.futer{
+ 
+    justify-content: center !important;
+    padding: 20px;    
+}
+
+.form-control {
+    background-color: #d4a375 !important;
+}
